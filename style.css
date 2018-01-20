@@ -1,0 +1,14 @@
+#center_header {
+    position: absolute;
+    top: 0;
+    left: 50%;  
+}
+
+body {
+    background-image : url("intro-bg.jpg");
+    background-repeat: no repeat;
+    background-position: center;
+}
+
+
+

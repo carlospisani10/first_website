@@ -1,0 +1,19 @@
+#center_header {
+    position: absolute;
+    top: 0;
+    left: 50%;  
+}
+
+#comparison {
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    border-bottom-width: 5px;
+}
+
+.border_2 {
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    border-bottom-width: 5px;
+}
+
+
