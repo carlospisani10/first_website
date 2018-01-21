@@ -10,5 +10,16 @@ body {
     background-position: center;
 }
 
+.Title {
+    color: whitesmoke;
+    padding-bottom: 20px;
+}
+
+
+p {
+    padding-left: 40px;
+    color: whitesmoke;
+}
+
 
 
